@@ -17,13 +17,17 @@ This is my submission for the Digitalflake Hackathon.
 ## Setup Instructions
 
 ### Backend
-
 cd server
+
 npm install
+
 npm start
+
 ### Front end
 cd client
+
 npm install
+
 npm run dev
 
 ## Screenshots
@@ -36,11 +40,6 @@ npm run dev
 
 ### Sets Management
 ![Sets](./sets.png)
-
-
-
-**Author**
-Avula Sreekanth
 
 
 
@@ -67,16 +66,8 @@ Your README should explain **only the project**, not GitHub usage.
 ✔ No unnecessary internal notes  
 
 ---
-
-### 🎉 **You’re ready to submit now.**  
-If you want, I can add:
-
-* Screenshots section  
-* API endpoints documentation  
-* Deployed link section (if you deploy)
-
-Just tell me 😊
-
+**Author**
+Avula Sreekanth
 
 
 
